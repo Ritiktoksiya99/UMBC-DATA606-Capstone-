@@ -50,8 +50,6 @@ The Diabetes Health Indicators Dataset derived from the Centers for Disease Cont
 
 The Behavioral Risk Factor Surveillance System (BRFSS) is a large-scale, nationwide health-related telephone survey conducted annually by the CDC in the United States. It collects responses from hundreds of thousands of adults on health-related risk behaviors, chronic health conditions, access to healthcare, and preventive health practices.
 
-For this project, a cleaned and consolidated version of the BRFSS 2015 dataset is used, focusing on key clinical, lifestyle, and demographic indicators that are relevant to diabetes risk prediction in a **binary classification setting** (no diabetes vs. prediabetes/diabetes).
-
 **Data Size:**  
 Approximately 22.7 MB (CSV format)
 
