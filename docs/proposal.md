@@ -93,9 +93,10 @@ Each row represents an individual survey respondent’s health profile, includin
 ## 4. Target and Predictors
 
 **Target Variable:**  
-- *Diabetes_binary*  
+ 
   - 0 = No diabetes  
-  - 1 = Prediabetes or diabetes  
+  - 1 = Prediabetes 
+  - 2 = diabetes  
 
 **Predictor Variables:**  
 - Clinical indicators (e.g., BMI, HighBP, HighChol)  
