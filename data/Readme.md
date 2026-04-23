@@ -4,7 +4,7 @@ This folder contains the datasets used for the Diabetes Risk Prediction project.
 
 ## Datasets
 
-### 1. Diabetes Health Indicators Dataset (Main Dataset)
+### 1. Diabetes Health Indicators Dataset (Categorical Version)
 
 | Detail | Info |
 |--------|------|
@@ -14,7 +14,7 @@ This folder contains the datasets used for the Diabetes Risk Prediction project.
 | Rows | 253,680 |
 | Columns | 22 |
 
-Key columns: `Diabetes_012`, `HighBP`, `HighChol`, `BMI`, `Age`, `GenHlth`, `Income`
+This is the human-readable version with categorical labels such as Yes/No, Male/Female, age groups and income brackets. Used for EDA and visualization.
 
 ### 2. Diabetes Numeric Dataset (Encoded Version)
 
@@ -25,14 +25,12 @@ Key columns: `Diabetes_012`, `HighBP`, `HighChol`, `BMI`, `Age`, `GenHlth`, `Inc
 | Rows | 253,680 |
 | Columns | 22 |
 
-This file is the encoded version of the main dataset with all categorical variables converted to numeric values.
+This is the machine learning ready version with all categorical variables converted to numeric values using binary and ordinal encoding. Used for model training.
 
 ## Target Variable
 - **0** = No Diabetes
-- **1** = Prediabetes  
+- **1** = Prediabetes
 - **2** = Diabetes
 
-## Setup Instructions
-1. Download `diabetes_health_indicators(1).csv` from the Kaggle link above
-2. Place the file in this `data/` folder
-3. Run the notebook in the `notebooks/` folder
+## Note
+The original Kaggle dataset contains numeric values only. The categorical version was created by mapping numeric codes back to their descriptive labels for better readability during EDA.
