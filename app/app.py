@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
+import os
 
-model = joblib.load('xgb_model.pkl')
-scaler = joblib.load('scaler.pkl')
+model = joblib.load(os.path.join(os.path.dirname(__file__), 'xgb_model.pkl'))
+scaler = joblib.load(os.path.join(os.path.dirname(__file__), 'scaler.pkl'))
 
 st.set_page_config(page_title='Diabetes Risk Predictor', page_icon='🩺', layout='wide')
 st.title('🩺 Diabetes Risk Prediction App')
