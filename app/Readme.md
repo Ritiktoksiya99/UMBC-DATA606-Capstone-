@@ -1,4 +1,3 @@
-cat > /Users/ritiktoksiya/Downloads/Capstone_606/app/README.md << 'EOF'
 # Diabetes Risk Prediction - Streamlit App
 
 This folder contains the Streamlit web application for the Diabetes Risk Prediction project.
