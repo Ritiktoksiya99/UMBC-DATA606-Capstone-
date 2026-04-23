@@ -199,7 +199,6 @@ The most significant challenge was the severe class imbalance — Prediabetes ac
 
 ### Limitations
 - **Class imbalance:** Prediabetes remains extremely difficult to predict due to severe underrepresentation
-- **Survey bias:** Self-reported health data may contain inaccuracies
 - **Temporal scope:** Dataset covers only 2015 — patterns may have changed
 - **Binary features:** Many nuanced health factors are reduced to Yes/No
 
