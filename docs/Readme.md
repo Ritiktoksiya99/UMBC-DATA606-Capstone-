@@ -15,7 +15,7 @@ This folder contains all project documentation for the Diabetes Risk Prediction 
 
 - [Project Proposal](proposal.md)
 - [Full Project Report](report.md)
-- - [PowerPoint Presentation](https://docs.google.com/presentation/d/1k20b5UBP4FAW23bhAScNXH4WFKzHuA_C/edit?usp=sharing&ouid=118054097307591414694&rtpof=true&sd=true)
+- [PowerPoint Presentation](https://docs.google.com/presentation/d/1k20b5UBP4FAW23bhAScNXH4WFKzHuA_C/edit?usp=sharing&ouid=118054097307591414694&rtpof=true&sd=true)
 - [Live Streamlit App](https://5nrf2swp2buptpmwwiklxg.streamlit.app)
 - [GitHub Repository](https://github.com/Ritiktoksiya99/UMBC-DATA606-Capstone-)
 - [LinkedIn Profile](https://www.linkedin.com/in/ritik-toksiya/)
