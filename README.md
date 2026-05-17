@@ -15,7 +15,7 @@
 - [Project Proposal](docs/proposal.md)
 - [Full Report](docs/report.md)
 - [PowerPoint Presentation](https://docs.google.com/presentation/d/1k20b5UBP4FAW23bhAScNXH4WFKzHuA_C/edit?usp=sharing&ouid=118054097307591414694&rtpof=true&sd=true)
-- YouTube Video: [YouTube Video](https://www.youtube.com/watch?v=E_YeuHya6XQ&t=1146s)
+- [YouTube Video](https://www.youtube.com/watch?v=E_YeuHya6XQ&t=1146s)
 
 ---
 
