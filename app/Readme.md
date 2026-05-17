@@ -28,7 +28,7 @@ This app uses a trained XGBoost model to predict diabetes risk based on clinical
 pip install -r requirements.txt
 streamlit run app.py
 ```
-The app will open at http://localhost:8501
+The app will open at https://diabetes-predictor-umbc.streamlit.app/
 
 ## Dependencies
 - streamlit
