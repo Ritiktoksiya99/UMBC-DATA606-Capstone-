@@ -8,7 +8,7 @@ model = joblib.load(os.path.join(os.path.dirname(__file__), 'xgb_model.pkl'))
 scaler = joblib.load(os.path.join(os.path.dirname(__file__), 'scaler.pkl'))
 
 st.set_page_config(page_title='Diabetes Risk Predictor', page_icon='🩺', layout='wide')
-st.title('🩺 Diabetes Risk Prediction App')
+st.title('🩺 Diabetes Risk Prediction')
 st.markdown('Enter your health indicators below to predict your diabetes risk.')
 
 st.sidebar.header('Patient Information')
