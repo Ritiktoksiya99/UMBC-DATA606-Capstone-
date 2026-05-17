@@ -3,7 +3,7 @@
 This folder contains the Streamlit web application for the Diabetes Risk Prediction project.
 
 ## Live App
-[Click here to open the app](https://5nrf2swp2buptpmwwiklxg.streamlit.app)
+[Click here to open the app](https://diabetes-predictor-umbc.streamlit.app/)
 
 ## About the App
 This app uses a trained XGBoost model to predict diabetes risk based on clinical, lifestyle and demographic indicators from the CDC BRFSS 2015 survey.
