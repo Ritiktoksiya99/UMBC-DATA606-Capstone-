@@ -19,6 +19,7 @@ This folder contains all project documentation for the Diabetes Risk Prediction 
 - [Live Streamlit App](https://5nrf2swp2buptpmwwiklxg.streamlit.app)
 - [GitHub Repository](https://github.com/Ritiktoksiya99/UMBC-DATA606-Capstone-)
 - [LinkedIn Profile](https://www.linkedin.com/in/ritik-toksiya/)
+- [YouTube Video](https://www.youtube.com/watch?v=E_YeuHya6XQ&t=1146s)
 
 ## Author
 **Ritik Sunil Toksiya**  
