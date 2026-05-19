@@ -80,7 +80,7 @@ UMBC-DATA606-Capstone-/
 ### Jupyter Notebook
 ```bash
 cd notebooks
-jupyter notebook Capstone_Project_EDA_final.ipynb
+jupyter notebook Capstone_Project_Final.ipynb
 ```
 
 ### Streamlit App
