@@ -186,7 +186,7 @@ streamlit run app/app.py
 - **Risk Factor Summary** — Shows BMI, Health Score and Lifestyle Risk Score
 
 ### Live App
-[https://5nrf2swp2buptpmwwiklxg.streamlit.app](https://5nrf2swp2buptpmwwiklxg.streamlit.app)
+[https://5nrf2swp2buptpmwwiklxg.streamlit.app][https://diabetes-predictor-umbc.streamlit.app/]
 
 ---
 
