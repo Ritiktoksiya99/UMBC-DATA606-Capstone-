@@ -56,7 +56,7 @@ UMBC-DATA606-Capstone-/
 │   ├── report.md                 # Full project report
 │   └── Ritik_Resume_Final.pdf    # Author resume
 ├── notebooks/                    # Jupyter notebooks
-│   └── Capstone_Project_EDA_final.ipynb
+│   └── Capstone_Project_Final.ipynb
 └── README.md                     # This file
 ```
 ---
